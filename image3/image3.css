@@ -1,0 +1,37 @@
+hr,h1,p,ul {
+    margin: 20px;
+}
+
+.padding-12{
+    padding: 12px;
+}
+
+.Undrlined-text{
+    text-decoration: underline;
+}
+
+.blue-text{
+    color: blue;
+}
+
+.red-text{
+    color: red;
+}
+
+.orange-text{
+    color: orange;
+}
+
+.bold-text {
+    font-weight: bold
+}
+
+.circle-list{
+    list-style-type: circle;
+}
+
+.none-style-list{
+    list-style-type:none;
+}
+
+
