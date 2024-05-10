@@ -1,0 +1,45 @@
+.gray-bg{
+    background-color: #C9D7DD;
+}
+
+.yellow-bg{
+    background-color: #FFF9D0;
+}
+
+.margin-10{
+    margin: 10px 0px;
+}
+
+.width-25{
+    width: 25%;
+}
+
+.inline{
+    display: inline-block;
+}
+
+.scroll{
+    overflow: auto;
+}
+
+.hidden{
+    overflow: hidden;
+}
+
+.hight-70{
+    height: 70px;
+}
+
+.border-tb{
+    border-bottom: black solid 2px ;
+    border-top: black solid 2px ;
+}
+
+.border-r{
+    border-right: black solid 3px;
+}
+
+
+.padding-10{
+    padding: 10px;
+}
